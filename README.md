@@ -13,7 +13,7 @@
 
 So if you stumble upon my repo, please ignore me 🙏
 
-This is a [link] to my website page
+This is a **[link]** to my website page
 
 Anyway, have a nice day  
 
