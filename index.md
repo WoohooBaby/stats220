@@ -1,4 +1,6 @@
-# This is the markdown file
+# Hello and welcome
+
+## This is the meme I made for my first assignment, also I've provide the `R` code for it.
 
 ![meme](my_meme.png)
 
@@ -34,3 +36,20 @@ meme <- c(first_row, second_row) %>%
 image_write(meme, 'my_meme.png')
 
 ```
+
+
+
+1. my inspiration for the meme:
+- I love cats
+- When I was young, I was often beaten by my mother for being naughty.
+- **I have to!** Otherwise I'll lose ***credits***! 😥😭😢😭  
+
+2. source of my meme
+- This meme is not original, but a secondary creation of the meme circulating on the Internet
+  - The original picture is this one: (click the picture to jump to the website)  
+  [<img src="https://i.redd.it/qplfk2eowfd11.jpg" width="400">](https://www.reddit.com/r/memes/comments/93n2y5/moms_hits_and_call_for_dinner/)
+
+3. Use of pictures
+- When I looked up the original meme, I found out that the image I used is the same as the original meme,   
+ but it is too troublesome to replace the image from scratch, I will be careful not to let something similar happen in the next assignment.
+ ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ui-iGRyxyp-wWhCPgNTS1GHz8TJIKYtM1Q&usqp=CAU)
