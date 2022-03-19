@@ -1,7 +1,7 @@
 # This is the markdown file
 
 
-![](220meme.png)
+![]()
 
 ```{r}
 library(magick)
