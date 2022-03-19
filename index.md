@@ -1,8 +1,6 @@
 # This is the markdown file
 
 
-![](220meme.png)
-
 ```{r}
 library(magick)
 angry_cat <- image_read('https://pic2.zhimg.com/80/v2-8742aacd3924757631da263206d48665_1440w.jpg') %>%
