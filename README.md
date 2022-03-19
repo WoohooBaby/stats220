@@ -1,5 +1,7 @@
 # stats220
 
+# Intro about this repo
+
 ## Hello, this is my Assignments page for Stats 220 course as a starting point for getting familiar with R. 
 
 
