@@ -60,5 +60,5 @@ ___
 ___
 4. Use of pictures
 - When I looked up the original meme after all works, I found out that the image I used is the same as the original meme,   
- but it is too troublesome to replace the image from scratch, I will be careful not to let something similar happen in the next assignment.
+ but it is too troublesome to replace the image from scratch, I will be careful not to let something similar happen in the next assignment.  
  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ui-iGRyxyp-wWhCPgNTS1GHz8TJIKYtM1Q&usqp=CAU)
