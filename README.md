@@ -7,9 +7,9 @@
 
 
 
->I'm a **student** from *The University of Auckland*.  
+>I'm a **student** from *[The University of Auckland](https://www.auckland.ac.nz/en.html)*.  
 >
->This is my first systematic learning of R and my whole understanding of R comes from suffering in other courses  
+>This is my first systematic learning of ```R``` and my whole understanding of ```R``` comes from suffering in other courses😢  
 >
 >You may not want to follow me as I ***may not*** post anything useful here :(
 >>By the way, my benevolent 220 lecturer might come here to check my homework, so I may not post something funny here either💀
