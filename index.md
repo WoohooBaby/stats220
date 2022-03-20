@@ -2,6 +2,9 @@
 
 ## This is the meme I made for my first assignment, also I've provide the `R` code for it.
 
+I've used functions in [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package to do this meme.  
+e.g.: image_read, image_scale, image_blank, image_crop, image_append and image_write.
+
 ![meme](my_meme.png)
 
 ```
@@ -39,18 +42,21 @@ image_write(meme, 'my_meme.png')
 
 
 ## Below are some informations of this meme
+1. Motivation of this meme:
+- It's a little embarrassing to say it, but it's to complete the Assignment. 🤷‍♂️
 
-1. my inspiration for the meme:
-- I love cats
+___
+2. my inspiration for the meme:
+- I love cats🐱
 - When I was young, I was often beaten by my mother for being naughty.
 - **I have to!** Otherwise I'll lose ***credits***! 😥😭😢😭  
-
-2. source of my meme
+___
+3. source of my meme
 - This meme is not original, but a secondary creation of the meme circulating on the Internet
   - The original picture is this one: (click the picture to jump to the website)  
   [<img src="https://i.redd.it/qplfk2eowfd11.jpg" width="400">](https://www.reddit.com/r/memes/comments/93n2y5/moms_hits_and_call_for_dinner/)
-
-3. Use of pictures
-- When I looked up the original meme, I found out that the image I used is the same as the original meme,   
+___
+4. Use of pictures
+- When I looked up the original meme after all works, I found out that the image I used is the same as the original meme,   
  but it is too troublesome to replace the image from scratch, I will be careful not to let something similar happen in the next assignment.
  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ui-iGRyxyp-wWhCPgNTS1GHz8TJIKYtM1Q&usqp=CAU)
