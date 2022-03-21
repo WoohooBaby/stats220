@@ -47,17 +47,20 @@ image_write(meme, 'my_meme.png')
 1. Motivation of this meme:
 - *It's a little embarrassing to say it, but it's to complete the Assignment.* 🤷‍♂️
 
-___
+___  
+
 2. my inspiration for the meme:
 - I love cats🐱
 - When I was young, I was often beaten by my mother for being naughty.
 - **I have to!** Otherwise I'll lose credits 😥😭😢😭  
-___
+___  
+
 3. source of my meme
 - This meme is not original, but a secondary creation of the meme circulating on the Internet
   - The original picture is this one: (click the picture to jump to the website)  
   [<img src="https://i.redd.it/qplfk2eowfd11.jpg" width="400">](https://www.reddit.com/r/memes/comments/93n2y5/moms_hits_and_call_for_dinner/)
-___
+___  
+
 4. Use of pictures
 - When I looked up the original meme after all works, I found out that the image I used is the same as the original meme,   
  but it is too troublesome to replace the image from scratch, I will be careful not to let something similar happen in the next assignment.  
